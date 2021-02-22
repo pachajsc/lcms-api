@@ -41,6 +41,13 @@
       "description": "monitor description",
       "categoryId": 1,
       "id": 6
+    },
+    {
+      "name": "el pepe",
+      "price": 199.99,
+      "description": "monitor description",
+      "categoryId": 1,
+      "id": 7
     }
   ],
   "categoria": [
