@@ -1,0 +1,44 @@
+{
+    "productos":[
+        {
+            "id": 1,
+            "name":"laptop",
+            "price":1599.99,
+            "description": "HP Laptop",
+            "categoryId":1
+        },
+        {
+            "id": 2,
+            "name":"monitor",
+            "price":199.99,
+            "description": "monitor description",
+            "categoryId":1
+        },
+        {
+            "id": 3,
+            "name":"mouse",
+            "price":100.99,
+            "description": "mouse description",
+            "categoryId":1
+        },
+        {
+            "id": 4,
+            "name":"keyboard",
+            "price":20,
+            "description": "keyboard description",
+            "categoryId":1
+        }
+    ],
+    "categoria":[
+        {
+            "id":"1",
+            "name":"computers",
+            "description":"computers, laptops, monitors, etc"
+        },
+        {
+            "id":"2",
+            "name":"gaming",
+            "description":"gaming, laptops, monitors, etc"
+        }
+    ]
+}
