@@ -4,6 +4,11 @@
       "id": "1",
       "nombre": "Introducción a Python",
       "descripcion": "descripcion Python"
+    },
+    {
+      "id": "2",
+      "nombre": "curso 2",
+      "descripcion": "descripcion curso 2"
     }
   ],
   "temas": [
@@ -17,7 +22,19 @@
       "id": "2",
       "nombre": "Sintaxis básica del lenguaje Python",
       "descripcion": "descripcion intaxis básica del lenguaje Python",
+      "cursoId": "2"
+    },
+    {
+      "id": "2",
+      "nombre": "Introducción a Python",
+      "descripcion": "descripcion Introducción a Python",
       "cursoId": "1"
+    },
+    {
+      "id": "3",
+      "nombre": "Sintaxis básica del lenguaje Python",
+      "descripcion": "descripcion intaxis básica del lenguaje Python",
+      "cursoId": "2"
     }
   ],
   "subtemas": [
