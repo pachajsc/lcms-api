@@ -1,0 +1,107 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "nombre": "Introducción a Python",
+      "descripcion": "descripcion Python"
+    }
+  ],
+  "temas": [
+    {
+      "id": "1",
+      "nombre": "Introducción a Python",
+      "descripcion": "descripcion Introducción a Python",
+      "cursoId": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Sintaxis básica del lenguaje Python",
+      "descripcion": "descripcion intaxis básica del lenguaje Python",
+      "cursoId": "1"
+    }
+  ],
+  "subtemas": [
+    {
+      "id": "1",
+      "nombre": "Presentación de la clase",
+      "descripcion": "descripcion Presentación de la clase",
+      "temaId": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Historia y filosofía de Python",
+      "descripcion": "descripcion Historia y filosofía de Python",
+      "temaId": "1"
+    },
+    {
+      "id": "3",
+      "nombre": "Introducción",
+      "description": "descripcion Introducción",
+      "temaId": "2"
+    },
+    {
+      "id": "4",
+      "nombre": "Cadenas de texto",
+      "description": "descripcion Cadenas de texto",
+      "temaId": "2"
+    },
+    {
+      "id": "5",
+      "nombre": "Estructuras de control y funciones",
+      "description": "descripcion Estructuras de control y funciones",
+      "temaId": "2"
+    },
+    {
+      "id": "6",
+      "nombre": "Paquetes y clases",
+      "description": "descripcion Paquetes y clases",
+      "temaId": "2"
+    }
+  ],
+  "notas": [
+    {
+      "id": "1",
+      "nombre": "nota 1",
+      "descripcion": "nota uno descripcion",
+      "subtemaId": "1"
+    },
+    {
+      "id": "2",
+      "name": "nota 2",
+      "descripcion": "nota dos descripcion",
+      "subtemaId": "1"
+    }
+  ],
+  "visto": [
+    {
+      "id": "1",
+      "check": true,
+      "subtemaId": "1"
+    },
+    {
+      "id": "2",
+      "check": false,
+      "subtemaId": "2"
+    },
+    {
+      "id": "3",
+      "check": false,
+      "subtemaId": "3"
+    },
+    {
+      "id": "4",
+      "check": true,
+      "subtemaId": "4"
+    },
+    {
+      "id": "5",
+      "check": false,
+      "subtemaId": "5"
+    },
+    {
+      "id": "6",
+      "check": false,
+      "subtemaId": "6"
+    }
+  ]
+}
